@@ -1,3 +1,3 @@
 # hello-world
 Repository for running through the Github tutorial.
-This will take some time to incoporate into standard operating procedures.
+This will take some time to incorporate into standard operating procedures.
